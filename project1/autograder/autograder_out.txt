@@ -1,0 +1,30 @@
+Parameters:
+  myaddress: 4026544704, BITMAP_SIZE: 4
+top_bits_test:
+    All test cases passed!
+  Score: 2.000000/2.000000
+set_even_bits:
+    All test cases passed!
+  Score: 4.000000/4.000000
+get_even_bits:
+    All test cases passed!
+  Score: 4.000000/4.000000
+
+Total Score Test 1: 10.000000/10.000000
+--------------------------------------------
+
+Parameters:
+  myaddress: 3922544704, BITMAP_SIZE: 8
+top_bits_test:
+    All test cases passed!
+  Score: 2.000000/2.000000
+set_even_bits:
+    All test cases passed!
+  Score: 4.000000/4.000000
+get_even_bits:
+    All test cases passed!
+  Score: 4.000000/4.000000
+
+Total Score Test 2: 10.000000/10.000000
+--------------------------------------------
+
